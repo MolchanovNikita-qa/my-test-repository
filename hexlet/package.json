@@ -1,0 +1,12 @@
+{
+  "name": "kitkit",
+  "version": "1.0.0",
+  "type": "module", 
+  "description": "описание китика ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NikitaMolch",
+  "license": "ISC"
+}
