@@ -1,8 +1,7 @@
-import _ from "lodash"
+import _ from 'lodash';
 
 const oneTwo = () => {
-	console.log(_.last(['one', 'two']));
-}; 
+  console.log(_.last(['one', 'two']));
+};
 
-
-export default oneTwo; 
+export default oneTwo;
